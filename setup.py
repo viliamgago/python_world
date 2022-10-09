@@ -6,7 +6,6 @@ setuptools.setup(
     author="Viliam Gago",
     author_email="vg@s.cz",
     description="A function that returns 'world'",
-    long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/viliamgago/python_world",
     packages=setuptools.find_packages(),
