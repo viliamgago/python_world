@@ -4,7 +4,7 @@ setuptools.setup(
     name="python_world",
     version="0.0.1",
     author="Viliam Gago",
-    author_email="vg@s.cz,
+    author_email="vg@s.cz",
     description="A function that returns 'world'",
     long_description=long_description,
     long_description_content_type="text/markdown",
